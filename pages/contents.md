@@ -1,7 +1,7 @@
 
 ---
 title: contents
-list: [[1]]
+list: [[1,2,3]]
 ---
 ## 1
 ## 2
