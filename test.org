@@ -1,4 +1,6 @@
 #+TITLE: test
 #+TAGS:
 
+** 在logseq正常的链接，在github里面看就不能正常链接。
+** [[test1]]
 ** 
