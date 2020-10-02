@@ -1,7 +1,61 @@
 #+TITLE: org1
 
+#+STARTUP: overview
+#+TAGS: OFFICE(o) COMPUTER(c) HOME(h) PROJECT(p) READING(r) DVD(d) 
+#+STARTUP: hidestars
+
+* DONE ddd
+  CLOSED: [2013-09-03 Tue 22:4o0]
+* DONE ggg
+  CLOSED: [2013-09-06 Fri 22:52] SCHEDULED: <2013-09-03 二>
+** DONE hehe
+   CLOSED: [2013-09-06 Fri 22:53] SCHEDULED: <2013-09-06 Fri 18:00>
+** 到底slkfskl谁
+离开对方就是累的快解放老师看到飞机上了空间的发牢骚的减肥老师看到飞机上了解对方脸上看到就疯狂上了对方就是懒得分结束了对方就是老大看风景失落的开发建设路口的风景疗伤哭多久放假
+
+dskjdf来上课打飞机了谁的减肥了的老师的减肥了圣诞节发动机谁离开对方就是离开的风景都快放假失落的放假了谁看得见风景老师的咖啡就是觉得放假放假放假就放谁离开对方觉得空空的都看开点打开来上课打飞机的空间空间
+
+
+*** dddlskdfjkdj<2013-09-15 Sun>
+
+*** lskdjfkdj<2013-01-08 Thu>
+
+*** lskdfjdkjf
+lskdfslkdjfksdjf<2013-09-06 Fri 12:00>
+<2013-12-13 Fri>
+<2013-09-06 Fri>
+<2013-09-06 Fri 12:00-13:00>
+
+*** ddd<2013-09-06 Fri 22:19>
+*** 的空间疯狂							     :OFFICE:
+    DEADLINE: <2013-09-03 Tue>
+*** 上课的减肥空间<2013-01-08 Tue>
+*** 失落的快放假都是困境	<2013-01-08 Tue>		     :OFFICE:
+    DEADLINE: <2013-09-05 Thu>
+*** 失落的开发的空间
+sdfsdf
+**** 分离是肯定减肥空间
+盛大；骷髅法师；大开发
+**** 可是觉得烦空间						     :OFFICE:
+    DEADLINE: <2013-09-01 Sun>
+来上课打飞机了可是对方
+
+** time
+  DEADLINE: <2013-09-22 Sun>
+<2013-09-12 Thu>--<2013-09-30 Mon>
+* time
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2020-09-08 Tue 22:13]
+| Headline     | Time   |      |
+|--------------+--------+------|
+| *Total time* | *0:22* |      |
+|--------------+--------+------|
+| time         | 0:22   |      |
+| \emsp 1      |        | 0:07 |
+| \emsp 2      |        | 0:15 |
+#+END:
+
 ** 1
+   CLOCK: [2020-09-08 Tue 22:05]--[2020-09-08 Tue 22:12] =>  0:07
 ** 2
-** 3
-** sss
-***
+   CLOCK: [2020-09-08 Tue 21:50]--[2020-09-08 Tue 22:05] =>  0:15
