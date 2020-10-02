@@ -1,7 +1,4 @@
-:default-home {:page "test1"}
 
-
-;;---------edit over--------
 
 {:project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
@@ -32,6 +29,14 @@
  ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n
  :default-templates
  {:journals ""}
+ 
+ 
+ ;;------edit start----------
+ 
+ :default-home {:page "test1"}
+
+
+;;---------edit end--------
 
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
