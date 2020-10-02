@@ -3,6 +3,7 @@
 #+STARTUP: overview
 #+TAGS: OFFICE(o) COMPUTER(c) HOME(h) PROJECT(p) READING(r) DVD(d) 
 #+STARTUP: hidestars
+#+PUBLIC: true
 
 * DONE ddd
   CLOSED: [2013-09-03 Tue 22:4o0]
